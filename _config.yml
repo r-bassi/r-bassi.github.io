@@ -1,7 +1,7 @@
 # Site
-title: Halve
+title: Rohit Bassi
 description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+url: https://r-bassi.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,11 +29,11 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             rohit.bassi@outlook.com
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
+github:             r-bassi
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -63,3 +63,5 @@ gems:
 # Exclude list
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+
+theme: jekyll-theme-cayman
