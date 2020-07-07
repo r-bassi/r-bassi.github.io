@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-<!-- # About Theme -->
+# About Me
 
-<!-- This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hello and welcome to my website! My name is Rohit, and I'm a third year undergraduate science student studying computer science at the University of British Columbia in Vancouver, Canada.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new). -->
+Feel free to take a look at my projects, browse around, or send me an email!

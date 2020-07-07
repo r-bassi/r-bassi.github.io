@@ -1,6 +1,6 @@
 # Site
 title: Rohit Bassi
-description: Stylish, Two-Column Jekyll Theme
+description: Welcome to my website!
 url: https://r-bassi.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             rohit.bassi@outlook.com
+email:              rohit.bassi@outlook.com
 #google.plus:        username
 #twitter:            username
 #facebook:           username
 github:             r-bassi
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           r-bassi
 #xing:              username
-#instagram:          username
+instagram:          red.the.first
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
