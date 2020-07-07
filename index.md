@@ -3,6 +3,6 @@ layout: home
 ---
 # About Me
 
-Hello and welcome to my website! My name is Rohit, and I'm a third year undergraduate science student studying computer science at the University of British Columbia in Vancouver, Canada.
+Hi, my name is Rohit! I'm an undergraduate science student studying computer science at the University of British Columbia in Vancouver, BC, Canada.
 
-Feel free to take a look at my projects, browse around, or send me an email!
+Feel free to browse around, check out my projects, or get in contact with me!
