@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
 categories:
@@ -430,4 +430,4 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
     </td>
   </tr>
-</table>
+</table> -->

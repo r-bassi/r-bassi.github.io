@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Post: Image (Caption)"
 categories:
@@ -15,4 +15,4 @@ tags:
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo from Unsplash.</figcaption>
-</figure>
+</figure> -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Post: Image (Standard)"
 categories:
@@ -24,4 +24,4 @@ Standard image with no width modifier classes applied.
 {% raw %}![alt]({{ site.url }}/images/filename.jpg){% endraw %}
 ```
 
-![Unsplash image 9]({{ site.url }}/images/unsplash-image-9.jpg)
+![Unsplash image 9]({{ site.url }}/images/unsplash-image-9.jpg) -->

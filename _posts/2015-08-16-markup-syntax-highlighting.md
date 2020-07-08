@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Markup: Syntax Highlighting"
 excerpt: "Post displaying the various ways of highlighting code in Markdown."
@@ -32,6 +32,10 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
     <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
   {% endif %}
 </nav><!-- /.pagination -->{% endraw %}
+
+
+
+<!-->
 ```
 
 ```ruby
@@ -75,4 +79,4 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
 An example of a Gist embed below.
 
-{% gist e813c2560b0f1ecc9f5d pacman.patch %}
+{% gist e813c2560b0f1ecc9f5d pacman.patch %} -->

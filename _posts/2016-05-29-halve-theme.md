@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Halve Jekyll Theme"
 date:   2016-05-29
@@ -16,7 +16,7 @@ tag:
 
 <center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
      
- This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.
+ This theme is Jekyll port oaf [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
@@ -165,4 +165,4 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. -->

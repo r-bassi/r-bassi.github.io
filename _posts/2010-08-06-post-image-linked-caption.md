@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Post: Image (Linked with Caption)"
 categories:
@@ -19,4 +19,4 @@ Stairs? Were we're going we don't need no stairs.
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-</figure>
+</figure> -->
