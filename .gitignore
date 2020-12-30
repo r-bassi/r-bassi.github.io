@@ -1,2 +1,12 @@
 
 *.yaml
+README.md
+Gemfile
+Gemfile.lock
+src
+vendor
+CNAME
+LICENSE
+Rakefile
+.sass-cache
+.DS_Store
