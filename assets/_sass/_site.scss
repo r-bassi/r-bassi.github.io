@@ -42,7 +42,7 @@ canvas {
   height: 100%;
   position: absolute;
   top: 0;
-  // left: 0;
+  left: 0;
   z-index: 0;
 }
 
@@ -220,7 +220,8 @@ canvas {
       }
       span {
         position: absolute;
-        top: 50%;
+        // height of project name
+        top: 90%;
         left: 50%;
         -webkit-transform: translate(-50%, -50%);
         -moz-transform: translate(-50%, -50%);
@@ -722,7 +723,7 @@ canvas {
   }
   .projects-menu li {
     width: 50% !important;
-    height: 90% !important;
+    height: 50% !important;
     float: left;
   }
   .share-buttons span {
