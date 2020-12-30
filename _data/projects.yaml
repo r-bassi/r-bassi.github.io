@@ -1,4 +1,4 @@
-# - title: Halve Jekyll Theme
-#   url: http://taylantatli.me/Halve
-#   image: http://taylantatli.me/Halve/images/halve-home-image.png
-#   completed: false
+- title: This Website
+  url: http://r-bassi.github.io
+  image: https://r-bassi.github.io/images/logo.png
+  completed: false
