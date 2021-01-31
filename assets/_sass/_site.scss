@@ -412,7 +412,7 @@ canvas {
   h1,
   h2 {
     font-size: 35px;
-    color: darken($black, 0);
+    color: darken($black, 100);
     &:after {
       position: absolute;
       left: auto;
@@ -428,7 +428,7 @@ canvas {
     }
   }
   p {
-    color: darken($black, 0);
+    color: darken($black, 100);
     font-size: 16px;
     margin: 10px 0;
     padding-top: 0;
