@@ -310,7 +310,7 @@ canvas {
       content: "";
       width: 100px;
       height: 2px;
-      background: #585b63;
+      background: #000000;
       bottom: -20px;
       position: absolute;
       left: 50%;
@@ -333,7 +333,7 @@ canvas {
     overflow: hidden;
     li {
       display: inline-block;
-      background: #585b63;
+      background: #000000;
       margin-right: 10px;
       vertical-align: middle;
       -webkit-transform: translateZ(0);
@@ -555,7 +555,7 @@ canvas {
   p {
     font-size: 18px;
     line-height: 1.6;
-    color: #6c6c6c;
+    color: #000000;
     margin-bottom: 1.3em;
   }
   small {
