@@ -52,7 +52,7 @@ canvas {
   right: 30px;
   width: 15px;
   height: 15px;
-  border: 2px solid $gray;
+  border: 2px solid $black;
   border-radius: 3px;
   cursor: pointer;
   z-index: 3;
@@ -63,7 +63,7 @@ canvas {
     top: -2px;
     width: 15px;
     height: 15px;
-    border: 2px solid $gray;
+    border: 2px solid $black;
     border-radius: 3px;
   }
   span {
@@ -72,7 +72,7 @@ canvas {
     right: -2px;
     width: 15px;
     height: 15px;
-    border: 2px solid $gray;
+    border: 2px solid $black;
     border-radius: 3px;
     &:before {
       content: '';
@@ -81,7 +81,7 @@ canvas {
       top: -2px;
       width: 15px;
       height: 15px;
-      border: 2px solid $gray;
+      border: 2px solid $black;
       border-radius: 3px;
     }
   }
@@ -108,7 +108,7 @@ canvas {
   right: 90px;
   width: 20px;
   height: 25px;
-  border: 2px solid $gray;
+  border: 2px solid $black;
   background: $white;
   &:before {
     content: '';
@@ -116,7 +116,7 @@ canvas {
     height: 25px;
     position: absolute;
     right: 2px;
-    border: 2px solid $gray;
+    border: 2px solid $black;
     top: 2px;
     background: $white;
   }
@@ -124,7 +124,7 @@ canvas {
     content: '';
     width: 20px;
     height: 25px;
-    border: 2px solid $gray;
+    border: 2px solid $black;
     position: absolute;
     right: 6px;
     top: 6px;
@@ -144,7 +144,7 @@ canvas {
   position: absolute;
   top: 73px;
   font-size: 12px;
-  color: darken($white, 40);
+  color: darken($black, 100);
 }
 
 .posts-link {
