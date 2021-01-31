@@ -373,9 +373,9 @@ canvas {
           transform: scaleY(1);
         }
       }
-      &:nth-child(odd) {
-        background: $overlay-color;
-      }
+      // &:nth-child(odd) {
+      //   background: $overlay-color;
+      // }
       &:last-child {
         margin-right: 0;
       }
