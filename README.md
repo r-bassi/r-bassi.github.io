@@ -4,7 +4,6 @@ A small website to contact me, showcase my personal projects, and posts about th
   
 
 This website was possible thanks to the authors of the following existing sources:  
-[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)  
 [Jekyll](http://jekyllrb.com/)  
 [jQuery](http://jquery.com/)  
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)  
