@@ -8,3 +8,17 @@
   image: https://r-bassi.github.io/images/clapp.jpg
   completed: true
 
+- title: athDB
+  url: https://github.com/r-bassi/athDB
+  image: https://r-bassi.github.io/images/athdb.jpg
+  completed: true
+
+- title: pictoASCII
+  url: https://github.com/r-bassi/pictoASCII
+  image: https://r-bassi.github.io/images/pictoASCII.jpg
+  completed: true
+
+- title: BeepTest - Fitness Pacer
+  url: 
+  image: https://r-bassi.github.io/images/beeptest.png
+  completed: true
