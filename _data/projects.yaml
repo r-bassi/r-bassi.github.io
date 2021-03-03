@@ -1,8 +1,3 @@
-- title: This Website
-  url: http://r-bassi.github.io
-  image: https://r-bassi.github.io/images/siteproject2.jpg
-  completed: true
-
 - title: CLAPP
   url: https://github.com/r-bassi/CLAPP
   image: https://r-bassi.github.io/images/clapp.jpg
@@ -18,7 +13,12 @@
   image: https://r-bassi.github.io/images/pictoASCII.jpg
   completed: true
 
+- title: This Website
+  url: http://r-bassi.github.io
+  image: https://r-bassi.github.io/images/siteproject2.jpg
+  completed: true
+
 - title: BeepTest - Fitness Pacer
   url: 
-  image: https://r-bassi.github.io/images/beeptest.png
-  completed: true
+  image: https://r-bassi.github.io/images/beeptest.jpg
+  completed: false
