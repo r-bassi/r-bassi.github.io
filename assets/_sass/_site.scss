@@ -230,6 +230,7 @@ canvas {
         transform: translate(-50%, -50%);
         font-size: 30px;
         color: $white;
+        -webkit-text-stroke: 2px black
         padding-right: 10px;
         white-space: nowrap;
         text-align: center;
