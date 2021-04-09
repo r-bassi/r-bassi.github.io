@@ -5,7 +5,9 @@ date: 2021-04-08
 categories:
   - documentation
 tags:
-  - documentation, handbook, CLAPP
+  - documentation
+  - handbook
+  - CLAPP
 ---
 
 # CLAPP - Customer Loyalty in a Small Package
