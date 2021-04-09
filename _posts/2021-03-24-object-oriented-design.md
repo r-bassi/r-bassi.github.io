@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World!"
-date: 2020-03-24
+title: "Object Oriented Design Principles"
+date: 2021-03-24
 categories:
   - blog
 tags:
