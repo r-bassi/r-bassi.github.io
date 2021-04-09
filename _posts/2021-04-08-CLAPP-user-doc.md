@@ -59,10 +59,12 @@ The other option is to find them by the customer number that you assigned to the
 
 ### <a name="add-res">Additional Resources</a>
 
-I hope to have helped you with using CLAPP with this post. If you require more assistance with setting up Java or JDK dependencies, take a look at these articles [here](https://www.java.com/en/download/help/index_installing.html) and [here](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html). If you are having any problems with CLAPP, feel free to [send me an email](mailto:rohit.bassi@outlook.com) and I will try to help you as much as possible. Feel free to share this post using the links at the top or bottom of this page, or anywhere else.
+I hope to have helped you with using CLAPP with this post. If you require more assistance with setting up Java or JDK dependencies, take a look at these articles [here](https://www.java.com/en/download/help/index_installing.html) and [here](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html). If you are having any problems with CLAPP, you may [send me an email](mailto:rohit.bassi@outlook.com) and I will try to help you as much as possible. Feel free to share this post using the links at the top or bottom of this page, or anywhere else.
 
 ### <a name="clapp-supp"> CLAPP for Developers </a>
 
-Currently, the only developer involved with CLAPP is [me](https://rohitbassi.me/). If you would like to improve upon CLAPP, feel free to fork the repository and experiment at will. 
+Currently, the only developer involved with CLAPP is [me](https://rohitbassi.me/). If you you have other ideas or you would like to improve upon CLAPP, you can fork the repository and experiment with the application at will.
 
 Some things that have not yet been implemented are listed in the README.md of the CLAPP application, and on the CLAPP GitHub page [here](https://github.com/r-bassi/CLAPP).
+
+ If you would like to collaborate with me on a future project or contact me about an opportunity, feel free to use any of the links on the [home page](https://rohitbassi.me/).
