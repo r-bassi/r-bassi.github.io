@@ -30,7 +30,7 @@ If you google "Software Design Principles", there are a **lot** of them. They al
 We start with a change we want to make within our code. If the change is too difficult to make, for some reason or another, the change reveals a problematic lack of abstraction, also known as a code smell. We then discover what makes our code problematic and refactor our code to arrive at more principled code.
 
 Principled code doesn’t start out that way. We look realistically at what we are trying to enable programmers to do with our code, what kind of change they want to make, and then emerge principled code through refactoring.
-![](https://rohitbassi.me/images/organizecode.JPG)
+![](https://rohitbassi.net/images/organizecode.JPG)
 <sub>*[What is the Law Of Demeter?](https://en.wikipedia.org/wiki/Law_of_Demeter)*</sub>
 
 ### <a name="solid"> S O L I D </a>

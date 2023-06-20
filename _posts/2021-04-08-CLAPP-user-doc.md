@@ -11,7 +11,7 @@ tags:
 ---
 
 # CLAPP - Customer Loyalty in a Small Package
-![](https://rohitbassi.me/images/clapp.jpg)
+![](https://rohitbassi.net/images/clapp.jpg)
 
 > ## Table of Contents
 > 
@@ -31,13 +31,13 @@ CLAPP is a customer loyalty program designed for small businesses. There are man
 ### <a name="get-started"> Getting Started </a>
 
 First, click [**here**](https://github.com/r-bassi/CLAPP) to open my GitHub repository containing the files you will need to download. Navigate to and click on the green code button, and then click on download ZIP:
-![](https://rohitbassi.me/images/clappdownload.png)
+![](https://rohitbassi.net/images/clappdownload.png)
 
 Once you have downloaded the ZIP file, navigate to where you have saved the file and right click -> extract the ZIP file to the given folder using an unzipping tool of your choosing (WinRAR, 7zip, etc.):
-![](https://rohitbassi.me/images/extract.JPG)
+![](https://rohitbassi.net/images/extract.JPG)
 
 Open the newly extracted folder, where you will find **CLAPP.jar**:
-![](https://rohitbassi.me/images/clappjar.JPG)
+![](https://rohitbassi.net/images/clappjar.JPG)
 
 Double click on **CLAPP.jar**, and you will see the main screen for the CLAPP application. Now you are ready to begin storing, updating, and searching for  customer information.
 
@@ -47,16 +47,16 @@ Once you have opened up CLAPP, you will see the options to add a new customer, f
 
 <a name="add-customer"></a>
 To add a new customer, simply click on the "New Customer" tab and enter the customers information, along with the amount they have spent at their current visit, and click "Submit":
-![](https://rohitbassi.me/images/clappgood.JPG)
+![](https://rohitbassi.net/images/clappgood.JPG)
 &nbsp;
 
 
 <a name="find-customer"></a>
 Once you add a new customer, you may find a customer by their name or number. Searching for a customer by their name is case and character sensitive, so to find a customer that has been added, we must search for their exact name as was stored in the New Customer tab: 
-![](https://rohitbassi.me/images/findnum.JPG)
+![](https://rohitbassi.net/images/findnum.JPG)
 
 The other option is to find them by the customer number that you assigned to them:
-![](https://rohitbassi.me/images/findnum2.JPG)
+![](https://rohitbassi.net/images/findnum2.JPG)
 
 
 ### <a name="add-res">Additional Resources</a>
@@ -65,8 +65,8 @@ I hope to have helped you with using CLAPP with this post. If you require more a
 
 ### <a name="clapp-supp"> CLAPP for Developers </a>
 
-Currently, the only developer involved with CLAPP is [me](https://rohitbassi.me/). If you you have other ideas or you would like to improve upon CLAPP, you can fork the repository and experiment with the application at will.
+Currently, the only developer involved with CLAPP is [me](https://rohitbassi.net/). If you you have other ideas or you would like to improve upon CLAPP, you can fork the repository and experiment with the application at will.
 
 Some things that have not yet been implemented are listed in the README.md of the CLAPP application, and on the CLAPP GitHub page [here](https://github.com/r-bassi/CLAPP).
 
- If you would like to collaborate with me on a future project or contact me about an opportunity, feel free to use any of the links on the [home page](https://rohitbassi.me/).
+ If you would like to collaborate with me on a future project or contact me about an opportunity, feel free to use any of the links on the [home page](https://rohitbassi.net/).
