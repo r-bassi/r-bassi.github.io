@@ -1,3 +1,8 @@
+- title: SteamVista
+  url: https://github.com/r-bassi/SteamVista
+  image: https://r-bassi.github.io/images/steamvista.png
+  completed: true
+
 - title: Trippo - Itinerary Planner
   url: https://github.com/JoshLuong/Trippo
   image: https://r-bassi.github.io/images/trippo.png
